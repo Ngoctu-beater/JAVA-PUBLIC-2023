@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "java.dependency.packagePresentation": "flat",
+  "git.enabled": false
+  // "java.project.sourcePaths": ["src"],
+  // "java.project.outputPath": "bin",
+  // "java.project.referencedLibraries": ["lib/**/*.jar"]
+}
